@@ -4,6 +4,6 @@
 
 <ul>
  {#each data.myData as item}
- <li>{item.name}</li>
+ <li>{item.team}</li>
 {/each}
 </ul>
